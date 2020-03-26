@@ -1,0 +1,9 @@
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.csprojAssemblyReference.cache
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.frmHamming.resources
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.Properties.Resources.resources
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.csproj.GenerateResource.cache
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\bin\Debug\Hamming.exe.config
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\bin\Debug\Hamming.exe
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\bin\Debug\Hamming.pdb
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.exe
+E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.pdb
