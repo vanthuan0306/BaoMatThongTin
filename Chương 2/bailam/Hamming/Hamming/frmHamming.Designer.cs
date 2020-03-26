@@ -91,7 +91,7 @@
             // 
             this.txtAHexStr.Location = new System.Drawing.Point(126, 54);
             this.txtAHexStr.Name = "txtAHexStr";
-            this.txtAHexStr.Size = new System.Drawing.Size(100, 20);
+            this.txtAHexStr.Size = new System.Drawing.Size(142, 20);
             this.txtAHexStr.TabIndex = 5;
             this.txtAHexStr.TextChanged += new System.EventHandler(this.txtHexStr_TextChanged);
             // 
@@ -133,7 +133,7 @@
             // 
             this.txtBHexStr.Location = new System.Drawing.Point(126, 79);
             this.txtBHexStr.Name = "txtBHexStr";
-            this.txtBHexStr.Size = new System.Drawing.Size(100, 20);
+            this.txtBHexStr.Size = new System.Drawing.Size(142, 20);
             this.txtBHexStr.TabIndex = 10;
             this.txtBHexStr.TextChanged += new System.EventHandler(this.txtHexStr_TextChanged);
             // 
@@ -175,13 +175,15 @@
             // 
             this.txtAxorBHexStr.Location = new System.Drawing.Point(126, 134);
             this.txtAxorBHexStr.Name = "txtAxorBHexStr";
-            this.txtAxorBHexStr.Size = new System.Drawing.Size(100, 20);
+            this.txtAxorBHexStr.ReadOnly = true;
+            this.txtAxorBHexStr.Size = new System.Drawing.Size(142, 20);
             this.txtAxorBHexStr.TabIndex = 15;
             // 
             // txtAxorBBinStr
             // 
             this.txtAxorBBinStr.Location = new System.Drawing.Point(274, 134);
             this.txtAxorBBinStr.Name = "txtAxorBBinStr";
+            this.txtAxorBBinStr.ReadOnly = true;
             this.txtAxorBBinStr.Size = new System.Drawing.Size(363, 20);
             this.txtAxorBBinStr.TabIndex = 16;
             // 
@@ -189,6 +191,7 @@
             // 
             this.txtKhoangCach.Location = new System.Drawing.Point(654, 134);
             this.txtKhoangCach.Name = "txtKhoangCach";
+            this.txtKhoangCach.ReadOnly = true;
             this.txtKhoangCach.Size = new System.Drawing.Size(100, 20);
             this.txtKhoangCach.TabIndex = 17;
             // 

@@ -7,3 +7,12 @@ E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\bin\Debug\Hamming.exe
 E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\bin\Debug\Hamming.pdb
 E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.exe
 E:\BaoMatThongTin\Chương 2\bailam\Hamming\Hamming\obj\Debug\Hamming.pdb
+C:\Users\VanThuan\Desktop\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\VanThuan\Desktop\Hamming\Hamming\bin\Debug\Hamming.exe
+C:\Users\VanThuan\Desktop\Hamming\Hamming\bin\Debug\Hamming.pdb
+C:\Users\VanThuan\Desktop\Hamming\Hamming\obj\Debug\Hamming.csprojAssemblyReference.cache
+C:\Users\VanThuan\Desktop\Hamming\Hamming\obj\Debug\Hamming.frmHamming.resources
+C:\Users\VanThuan\Desktop\Hamming\Hamming\obj\Debug\Hamming.Properties.Resources.resources
+C:\Users\VanThuan\Desktop\Hamming\Hamming\obj\Debug\Hamming.csproj.GenerateResource.cache
+C:\Users\VanThuan\Desktop\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Users\VanThuan\Desktop\Hamming\Hamming\obj\Debug\Hamming.pdb
