@@ -1,0 +1,9 @@
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\bin\Debug\Bai3.exe.config
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\bin\Debug\Bai3.exe
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\bin\Debug\Bai3.pdb
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\obj\Debug\Bai3.csprojAssemblyReference.cache
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\obj\Debug\Bai3.frmBai3.resources
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\obj\Debug\Bai3.exe
+E:\BaoMatThongTin\Chuong1\Bai3\Bai3\obj\Debug\Bai3.pdb
