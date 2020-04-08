@@ -1,0 +1,6 @@
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 2\bailam\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csprojAssemblyReference.cache
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 2\bailam\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.frmMaHoaGiaiMa.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 2\bailam\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.Properties.Resources.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 2\bailam\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.StartUp.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 2\bailam\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csproj.GenerateResource.cache
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 2\bailam\MaHoaDonGian\MaHoaDonGian\obj\Debug\MaHoaDonGian.csproj.CoreCompileInputs.cache

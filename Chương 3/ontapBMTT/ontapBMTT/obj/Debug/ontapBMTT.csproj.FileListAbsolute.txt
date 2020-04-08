@@ -1,0 +1,14 @@
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\bin\Debug\ontapBMTT.exe.config
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\bin\Debug\ontapBMTT.exe
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\bin\Debug\ontapBMTT.pdb
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.csprojAssemblyReference.cache
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.frm1va2.resources
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.frmChinh.resources
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.Properties.Resources.resources
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.csproj.GenerateResource.cache
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.csproj.CoreCompileInputs.cache
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.exe
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.pdb
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.frm3.resources
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.frm4.resources
+C:\Users\VanThuan\Desktop\ontapBMTT\ontapBMTT\ontapBMTT\obj\Debug\ontapBMTT.frm5.resources
