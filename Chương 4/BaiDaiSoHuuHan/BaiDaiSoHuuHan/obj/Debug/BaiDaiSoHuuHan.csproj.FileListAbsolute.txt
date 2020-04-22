@@ -1,0 +1,15 @@
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\bin\Debug\BaiDaiSoHuuHan.exe.config
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\bin\Debug\BaiDaiSoHuuHan.exe
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\bin\Debug\BaiDaiSoHuuHan.pdb
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.csprojAssemblyReference.cache
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.frmBangPhepLuyThua.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.frmBangPhepCong.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.frmBangPhepNhan.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.frmTruongQp.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.frmVanhZn.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.MainForm.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.Properties.Resources.resources
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.csproj.GenerateResource.cache
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.csproj.CoreCompileInputs.cache
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.exe
+C:\Users\VanThuan\Desktop\GitHub\BaoMatThongTin\Chương 4\BaiDaiSoHuuHan\BaiDaiSoHuuHan\obj\Debug\BaiDaiSoHuuHan.pdb
